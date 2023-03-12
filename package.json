@@ -1,5 +1,5 @@
 {
-  "name": "team-profile-generator",
+  "name": "team-profiel-Gen",
   "version": "1.0.0",
   "description": "A Generator that will create a team profile",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PlutiePatootie/Team-Profile-Generator.git"
+    "url": "git+https://github.com/PlutiePatootie/Team-Profiel-Gen.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PlutiePatootie/Team-Profile-Generator/issues"
+    "url": "https://github.com/PlutiePatootie/Team-Profiel-Gen/issues"
   },
-  "homepage": "https://github.com/PlutiePatootie/Team-Profile-Generator#readme",
+  "homepage": "https://github.com/PlutiePatootie/Team-Profiel-Gen#readme",
   "dependencies": {
     "inquirer": "^8.2.4"
   },
